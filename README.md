@@ -1,6 +1,4 @@
-
-
-# ![Hello](./hello.svg)
+# Hey, I am Arpit Inder Singh (AI - Singh) 🤖
 
 ## Current Work 🔭
 I am currently volunteering as a Full-Stack Developer at a Start-up Company, `ParkBreezy`, participating in the `Standard Chartered Women + Tech4NYC` Prize at `Zhan Innovation Center`.
